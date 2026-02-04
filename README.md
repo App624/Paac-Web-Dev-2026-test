@@ -28,10 +28,10 @@ Open http://localhost:5173 in your browser.
 
 ## Build for Production
 
-```bash
+
 npm run build
 npm run preview
-```
+
 
 ## Next Steps
 
@@ -40,6 +40,4 @@ npm run preview
 3. Add project images or SVGs
 4. Deploy to Vercel, Netlify, or GitHub Pages
 
----
 
-Built with clean fundamentals, no AI boilerplate.
